@@ -210,3 +210,7 @@ hr.black {
 	font-weight: bold;
 }
 
+img {
+  width: auto;
+  height: 100%;
+}
